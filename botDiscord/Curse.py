@@ -91,4 +91,4 @@ async def c(ctx, numero):
         elif (curse == 1000):
             await ctx.send(f'[1000] -O inimigo irá morrer: {curse}')
 
-client.run('ODcwMzI1NDA2NzM2MTk5NzMw.YQLHsg.tn5_4yc8nrwsl8SMz_wQmC718uM')
+client.run('discordTokenHere')

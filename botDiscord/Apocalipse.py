@@ -16,4 +16,4 @@ async def b(ctx, base):
     time.sleep(tempo_final)
     await ctx.send(f'O tempo final estimado é de: {tempo_final}')
 
-client.run('ODcwMzI1NDA2NzM2MTk5NzMw.YQLHsg.tn5_4yc8nrwsl8SMz_wQmC718uM')
+client.run('dicordTokenHere')
